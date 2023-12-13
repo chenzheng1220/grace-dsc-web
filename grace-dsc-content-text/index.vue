@@ -19,10 +19,11 @@ const { text} = toRefs(props)
     margin:24rpx auto;
     background-color:#ffffff;
     border-radius: 24rpx 24rpx 0 0;
-    font-size:13px;
+    font-size:12px;
     line-height:2em;
     text-indent:2em;
     text-align:justify;
     padding:0 24rpx;
+    color:#000000;
 }
 </style>
